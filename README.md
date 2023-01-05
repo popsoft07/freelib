@@ -25,7 +25,7 @@ sudo apt-get install git cmake build-essential qtbase5-dev libqt5sql5-sqlite lib
 ```
 Скачать исходники программы:
 ```
-git clone --recurse-submodules https://github.com/petrovvlad/freeLib.git
+git clone --recurse-submodules https://github.com/popsoft07/freelib.git
 ```
 Собрать  и установить:
 ```
